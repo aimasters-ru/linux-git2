@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Hello pull-request"
+echo "1"
